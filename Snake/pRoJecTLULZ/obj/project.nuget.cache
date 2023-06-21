@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "koEQ3a0ccuFT69OewNRpnjbe3sLNdtMzPt24LDTmF9VGutiBtopMZe89J8zBzWYJi86Jl+qYD+J0FXBrWtXJPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanes\\source\\repos\\pRoJecTLULZ\\pRoJecTLULZ\\pRoJecTLULZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
